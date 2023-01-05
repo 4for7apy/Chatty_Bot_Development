@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/Simple Chatty Bot/task/build/
+/Topics/Standard output/Theory/out/
+/Topics/Standard output/Theory/out/production/classes/
+/Topics/Standard output/We need to learn Kotlin/out/
+/Topics/Standard output/We need to learn Kotlin/out/production/classes/
