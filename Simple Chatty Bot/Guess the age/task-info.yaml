@@ -105,6 +105,12 @@ files:
 
     }
   learner_created: false
+- name: src/bot/Mypractice.kt
+  visible: true
+  learner_created: true
+- name: src/bot/bhoot.kt
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/learn/step/10772#comment
 status: Unchecked
 record: -1
