@@ -41,6 +41,12 @@
             <option value="$PROJECT_DIR$/Topics/Data types/Theory" />
             <option value="$PROJECT_DIR$/Topics/Data types/Think as a compiler" />
             <option value="$PROJECT_DIR$/Topics/Data types/Think as compiler" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Find the output" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Find the output (1)" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Leap year" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Number dividers" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Positive, Negative or Zero" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Theory" />
             <option value="$PROJECT_DIR$/Topics/Integers in action/Desks" />
             <option value="$PROJECT_DIR$/Topics/Integers in action/Next even number" />
             <option value="$PROJECT_DIR$/Topics/Integers in action/Theory" />
@@ -73,6 +79,11 @@
             <option value="$PROJECT_DIR$/Topics/Values and variables/Assignments" />
             <option value="$PROJECT_DIR$/Topics/Values and variables/Declaring a mutable variable" />
             <option value="$PROJECT_DIR$/Topics/Values and variables/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Working with strings/Name Card" />
+            <option value="$PROJECT_DIR$/Topics/Working with strings/Operations and truth" />
+            <option value="$PROJECT_DIR$/Topics/Working with strings/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Working with strings/The same line" />
+            <option value="$PROJECT_DIR$/Topics/Working with strings/Theory" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
